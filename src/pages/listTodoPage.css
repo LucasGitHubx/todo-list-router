@@ -1,0 +1,15 @@
+.tasks{
+    width: 90%;
+    height: 100vh;
+    min-width: 320px;
+    max-width: 800px;
+    margin-top: 5rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+}
+h2.tasks-empty{
+    margin-top: 5rem;
+}
